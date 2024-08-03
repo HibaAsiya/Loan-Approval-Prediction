@@ -21,18 +21,23 @@ To run this project, you need to have Python installed on your machine. You can 
 
 ```bash
 pip install -r requirements.txt
+```
 
 ```bash
 git clone https://github.com/fvthima/loan-approval-prediction.git
+```
 
 ```bash
 cd loan-approval-prediction
+```
 
 ```bash
 jupyter notebook Loan_Approval_Pred_Model.ipynb
+```
 
 ```bash
 python app.py
+```
 
 ## Dataset
 The dataset used in this project is included in the repository as `loan_approval_dataset.csv`. It contains various features such as applicant income, loan amount, loan term, credit history, and more.
